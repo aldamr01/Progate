@@ -1,2 +1,2 @@
 # Progate
-Repositori Latihan Progate
+Repository Latihan Progate
